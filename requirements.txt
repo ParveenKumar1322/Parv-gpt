@@ -1,4 +1,5 @@
+transformers
+torch
 streamlit
-openai
-speechrecognition
-pillow
+requests
+Pillow
